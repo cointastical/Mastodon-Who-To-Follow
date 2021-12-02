@@ -6,7 +6,7 @@ This list can be imported into your Mastodon account. That will result in your a
 
 Step 1.) Obtain the list using **any** of the following methods:
 
-- Clone this repo.
+- Clone [this repo](https://github.com/cointastical/Mastodon-Who-To-Follow).
 
 or
 

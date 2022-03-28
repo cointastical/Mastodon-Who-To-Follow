@@ -1,5 +1,5 @@
 # Mastodon-Who-To-Follow
-This list can be imported into your Mastodon account. That will result in your account following all of the accounts from this list (the number of entries in the list was around 350, as-of Dec 2nd, 2021).
+This list can be imported into your Mastodon account. That will result in your account following all of the accounts from this list (the number of entries in the list was around 430, as-of Mar 28th, 2022).
 
 ## Instructions for how to download and import this list of Who To Follow.
 
